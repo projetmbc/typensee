@@ -1,16 +1,6 @@
-# Presentation of the project : talking between human beings.
 general:
-  monorepo: for-dev
-  desc    : This project ????
+  monorepo: typensee
+  desc    : This project aims to facilitate the capture of mathematical content for use in different formats.
   author  : Christophe BAL
   sources :
-    repository: https://github.com/bc-tools/for-dev
-
-
-# ????
-projects:
-  - inipro
-  - src2prod
-  - spkpb
-  - multimd
-  - cbdevtools
+    repository: https://github.com/projetmbc/typensee.git
