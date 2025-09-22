@@ -1,8 +1,0 @@
-#  This project uses the `Python` `multimd` library to write
-# a `README.md` file in several chunks.
-
-toc:
-  - prologue.md
-  - about.md
-  - technical.md
-  - deps.md
