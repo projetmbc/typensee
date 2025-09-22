@@ -1,0 +1,19 @@
+project:
+  version: "0.0.0-alpha"
+
+  acronym: "[T]ype a[N]d [S]ee - [MATH]ematic[S]"
+  desc   : "This project serves to analyze purely mathematical content using a semantic and intuitive language."
+
+  author: Christophe, BAL
+
+  licenses:
+    code  : gpl 3.0 only
+    manual: cc by nc 4.0
+
+  urls:
+    home  : https://github.com/projetmbc/typensee.git
+    dev   : https://github.com/projetmbc/typensee.git/tree/main/tns-maths
+    issues: https://github.com/projetmbc/typensee.git/issues
+
+  require :
+    - python3
