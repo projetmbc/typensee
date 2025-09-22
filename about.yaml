@@ -1,6 +1,10 @@
-general:
-  monorepo: typensee
-  desc    : This project aims to facilitate the capture of mathematical content for use in different formats.
-  author  : Christophe BAL
-  sources :
-    repository: https://github.com/projetmbc/typensee.git
+monorepo:
+  acronym: "[TYPE] a[N]d [SEE] your writing"
+  desc   : "This project offers a set of intuitive tools for writing scientific documents."
+
+  author: Christophe, BAL
+
+  urls:
+    home  : https://github.com/projetmbc/typensee.git
+    dev   : https://github.com/projetmbc/typensee.git
+    issues: https://github.com/projetmbc/typensee.git/issues

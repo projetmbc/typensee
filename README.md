@@ -1,16 +1,7 @@
+The monorepo typensee
+=====================
 
-The monorepo `tools-for-dev`
-============================
-
-> **I beg your pardon for my english...**
->
-> English is not my native language, so be nice if you notice misunderstandings, misspellings, or grammatical errors in my documents and codes.
-
-
-About `tools-for-dev`
----------------------
-
-This monorepo contains series of tools that can ease the workflow of an amateur developper.
+This monorepo contains a set of intuitive tools for writing scientific documents.
 
 <!-- :monorepo-content-START: -->
 <!-- :monorepo-content-END: -->

@@ -11,9 +11,9 @@ project:
     manual: cc by nc 4.0
 
   urls:
-    home  : https://github.com/bc-tools/for-dev
-    dev   : https://github.com/bc-tools/for-dev/tree/main/tns-maths
-    issues: https://github.com/bc-tools/for-dev/issues
+    home  : https://github.com/projetmbc/typensee.git
+    dev   : https://github.com/projetmbc/typensee.git/tree/main/tns-maths
+    issues: https://github.com/projetmbc/typensee.git/issues
 
   require :
     - python3
